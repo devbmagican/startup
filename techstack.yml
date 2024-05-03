@@ -1,0 +1,20 @@
+repo_name: devbmagican/startup
+report_id: 8d3569e688c1b352b14098a772c3bcf9
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-03T07:02:42+00:00'
+requested_by: devbmagican
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/devbmagican/startup
+  detection_source: Repo Metadata
